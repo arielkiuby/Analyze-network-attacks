@@ -21,3 +21,44 @@ You use a packet sniffer to capture data packets in transit to and from the web 
 You take the server offline temporarily so that the machine can recover and return to a normal operating status. You also configure the company’s firewall to block the IP address that was sending the abnormal number of SYN requests. You know that your IP blocking solution won’t last long, as an attacker can spoof other IP addresses to get around this block. You need to alert your manager about this problem quickly and discuss the next steps to stop this attacker and prevent this problem from happening again. You will need to be prepared to tell your boss about the type of attack you discovered and how it was affecting the web server and employees.
 
 ## Step-By-Step Instructions
+### Step 1: Access the template
+To use the template for this course item, click the link below and select Use Template. 
+
+
+### Step 2: Access Supporting Materials
+The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
+
+To use the supporting materials for this course item, click the following links and select Use Template. 
+
+
+### Step 3: Identify the type of attack causing this network interruption
+Reflect on the types of network intrusion attacks that you have learned about in this course so far. As a security analyst, identifying the type of network attack based on the incident is the first step to managing the attack and preventing similar attacks in the future. 
+
+Here are some questions to consider when determining what type of attack occurred: 
+
+* What do you currently understand about network attacks?
+
+* Which type of attack would likely result in the symptoms described in the scenario? 
+
+* What is the difference between a denial of service (DoS) and distributed denial of service (DDoS)? 
+
+* Why is the website taking a long time to load and reporting a connection timeout error?
+
+Review the Wireshark reading from step 2 and try to identify patterns in the logged network traffic. Analyze the patterns to determine which type of network attack occurred. Write your analysis in section one of the Cybersecurity incident report template provided. 
+
+
+### Step 4: Explain how the attack is causing the website to Malfunction
+Review the Wireshark reading from step 2, then write your analysis in section two of the Cybersecurity incident report template provided.
+
+When writing your report, discuss the network devices and activities that are involved in the interruption. Include the following information in your explanation:
+
+* Describe the attack. What are the main symptoms or characteristics of this specific type of attack? 
+
+* Explain how it affected the organization’s network. How does this specific network attack affect the website and how it functions?
+
+* Describe the potential consequences of this attack and how it negatively affects the organization. 
+
+* Optional: Suggest potential ways to secure the network so this attack can be prevented in the future.
+
+
+
