@@ -22,14 +22,15 @@ You take the server offline temporarily so that the machine can recover and retu
 
 ## Step-By-Step Instructions
 ### Step 1: Access the template
-To use the template for this course item, click the link below and select Use Template. 
+To use the template for this course item, click the [link](CybersecurityIncidentReport). 
 
 
 ### Step 2: Access Supporting Materials
 The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
 
-To use the supporting materials for this course item, click the following links and select Use Template. 
-
+To use the supporting materials for this course item, click the following links:
+1. [How to read a Wireshark TCP_HTTP logs](HowtoreadaWiresharkTCP_HTTPlog.docx)
+2. [Logs](WiresharkTCP_HTTPlog-TCPlog)
 
 ### Step 3: Identify the type of attack causing this network interruption
 Reflect on the types of network intrusion attacks that you have learned about in this course so far. As a security analyst, identifying the type of network attack based on the incident is the first step to managing the attack and preventing similar attacks in the future. 
@@ -61,4 +62,5 @@ When writing your report, discuss the network devices and activities that are in
 * Optional: Suggest potential ways to secure the network so this attack can be prevented in the future.
 
 
-
+## Step 5: Compare your work to the exemplar
+Rewiew the exemplar file by clicking this [link](CybersecurityIncidentReportExemplar.docx)
