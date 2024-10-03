@@ -29,8 +29,9 @@ To use the template for this course item, click the [link](Files/Cybersecurity_I
 The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
 
 To use the supporting materials for this course item, click the following links:
-1. [How to read a Wireshark TCP_HTTP logs](HowtoreadaWiresharkTCP_HTTPlog.docx)
-2. [Logs](WiresharkTCP_HTTPlog-TCPlog)
+1. [How to read a Wireshark TCP_HTTP logs](Files/How_to_read_a_Wireshark_TCP_HTTP_log.docx)
+2. [Logs](Files/Wireshark_TCP-HTTP_log-TCP_log)
+   
 
 ### Step 3: Identify the type of attack causing this network interruption
 Reflect on the types of network intrusion attacks that you have learned about in this course so far. As a security analyst, identifying the type of network attack based on the incident is the first step to managing the attack and preventing similar attacks in the future. 
@@ -63,4 +64,4 @@ When writing your report, discuss the network devices and activities that are in
 
 
 ## Step 5: Compare your work to the exemplar
-Rewiew the exemplar file by clicking this [link](CybersecurityIncidentReportExemplar.docx)
+Rewiew the exemplar file by clicking this [link](Files/Cybersecurity_Incident_Report_Exemplar.docx)
