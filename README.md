@@ -22,7 +22,7 @@ You take the server offline temporarily so that the machine can recover and retu
 
 ## Step-By-Step Instructions
 ### Step 1: Access the template
-To use the template for this course item, click the [link](CybersecurityIncidentReport). 
+To use the template for this course item, click the [link](Files/Cybersecurity_Incident_Report). 
 
 
 ### Step 2: Access Supporting Materials
