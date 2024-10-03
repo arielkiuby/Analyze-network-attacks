@@ -30,7 +30,7 @@ The following supporting materials will help you complete this activity. Keep th
 
 To use the supporting materials for this course item, click the following links:
 1. [How to read a Wireshark TCP_HTTP logs](Files/How_to_read_a_Wireshark_TCP_HTTP_log.docx)
-2. [Logs](Files/Wireshark_TCP-HTTP_log-TCP_log)
+2. [Logs](Files/Wireshark_TCP_HTTP_log.xlsx)
    
 
 ### Step 3: Identify the type of attack causing this network interruption
