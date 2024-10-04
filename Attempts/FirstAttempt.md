@@ -11,10 +11,12 @@ When website visitors try to establish a connection with the web server, a three
 
 1. [SYN] - this is the first attept for the source IP to make a connection to our systems. Syn stands for Synchronize
 
-2. [SYN, ACK] - this packet is 
+2. [SYN, ACK] - this packet is a response from the first [SYN] packet aggreeing to a connection. SYN, ACK stands for "Synchronize Acknowledge".
 
-3. [ACK] -
+3. [ACK] - this packet is the source IP acknoledging the acknoledgement given in [SYN, ACK] to make a connection. This is the last steps to make a successfull TCP connection. ACK stands for "acknowledge".
 
 Explain what happens when a malicious actor sends a large number of SYN packets all at once:
+When malicious actos send a large number of SYN packets it can overwhelm the server's available resources for the connection, we call this a SYN Flood Attack. When the server is left with no server resources, legitimate TCP connections request fail. 
 
 Explain what the logs indicate and how that affects the server:
+The logs indicated the server has no resources left to make new legitimate connections to new visitors, triggering a timeout error message.
